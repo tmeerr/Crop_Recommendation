@@ -42,3 +42,6 @@ Usage
 
 This project utilizes Machine Learning to recommend crops based on agricultural input parameters. It demonstrates the use of the Random Forest algorithm for achieving accurate predictions.
 EOF
+
+
+Developed by @Talib_Mir
